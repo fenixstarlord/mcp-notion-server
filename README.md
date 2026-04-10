@@ -7,8 +7,8 @@ MCP Server for the Notion API, enabling LLMs to interact with Notion workspaces.
 ## Quick Install
 
 ```bash
-git clone https://github.com/fenixstarlord/mcp-notion-server.git
-cd mcp-notion-server
+git clone https://github.com/fenixstarlord/notion-mcp.git
+cd notion-mcp
 ./install.sh
 ```
 
